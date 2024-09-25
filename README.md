@@ -14,8 +14,6 @@
      git clone https://github.com/TU_USUARIO/nombre-del-repo.git
      ```
    - Esto descargará el repositorio a tu máquina local.
-
-     ```
    - Asegúrate de dar a la rama un nombre descriptivo, como `agregar-cards`.
 
 3. **Hacer Cambios y Confirmarlos:**
